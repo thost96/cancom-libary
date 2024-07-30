@@ -1,0 +1,14 @@
+---
+manufacturer: HPE
+model: P08449-B21
+part_number: P08449-B21
+comments: HPE Intel Eth Adptr I350T4 OCPv3
+interfaces:
+  - name: 1GE/{module}/1
+    type: 1000base-t
+  - name: 1GE/{module}/2
+    type: 1000base-t
+  - name: 1GE/{module}/3
+    type: 1000base-t
+  - name: 1GE/{module}/4
+    type: 1000base-t

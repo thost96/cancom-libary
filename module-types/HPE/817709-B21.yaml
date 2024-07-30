@@ -1,0 +1,10 @@
+---
+manufacturer: HPE
+model: 817709-B21
+part_number: 817709-B21
+comments: HPE Ethernet 631FLR‑SFP28 Adapter
+interfaces:
+  - name: 25GE/{module}/1
+    type: 25gbase-x-sfp28
+  - name: 25GE/{module}/2
+    type: 25gbase-x-sfp28

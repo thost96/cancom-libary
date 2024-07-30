@@ -1,0 +1,62 @@
+---
+manufacturer: Dell
+model: VxRail V570F
+slug: dell-vxrail-v570f
+u_height: 2
+is_full_depth: true
+front_image: true
+rear_image: true
+airflow: front-to-rear
+comments: '[Dell VxRail V570F Owner's Manual](https://www.dell.com/support/manuals/en-rs/vxrail-appliance-series/vxr_p_p-v-s570_om/)'
+weight: 28.1
+weight_unit: kg
+console-ports:
+  - name: Optional Rear Serial
+    type: de-9
+  - name: front-usb1
+    type: usb-a
+  - name: front-usb2
+    type: usb-a
+  - name: front-vga
+    type: de-15
+  - name: rear-usb1
+    type: usb-a
+  - name: rear-usb2
+    type: usb-a
+  - name: rear-vga
+    type: de-15
+module-bays:
+  - name: PSU0
+    position: PSU0
+  - name: PSU1
+    position: PSU1
+  - name: NDC
+    position: NDC
+  - name: PCIe1
+    position: PCIe1
+    label: primary riser
+  - name: PCIe2
+    position: PCIe2
+    label: primary riser
+  - name: PCIe3
+    position: PCIe3
+    label: primary riser
+  - name: PCIe4
+    position: PCIe4
+    label: secondary riser
+  - name: PCIe5
+    position: PCIe5
+    label: secondary riser
+  - name: PCIe6
+    position: PCIe6
+    label: secondary riser
+  - name: PCIe7
+    position: PCIe7
+    label: tertiary riser
+  - name: PCIe8
+    position: PCIe8
+    label: tertiary riser
+interfaces:
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: true

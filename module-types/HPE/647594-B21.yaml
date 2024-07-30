@@ -1,0 +1,14 @@
+---
+manufacturer: HPE
+model: 647594-B21
+part_number: 647594-B21
+comments: HPE Ethernet 1Gb 4-port 331i Adapter
+interfaces:
+  - name: 1GE/{module}/1
+    type: 1000base-t
+  - name: 1GE/{module}/2
+    type: 1000base-t
+  - name: 1GE/{module}/3
+    type: 1000base-t
+  - name: 1GE/{module}/4
+    type: 1000base-t

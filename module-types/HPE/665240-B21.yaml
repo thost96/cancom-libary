@@ -1,0 +1,14 @@
+---
+manufacturer: HPE
+model: 665240-B21
+part_number: 665240-B21
+comments: HPE Ethernet 1 Gb FLR‑T I350‑T4V2 Adapter
+interfaces:
+  - name: 1GE/{module}/1
+    type: 1000base-t
+  - name: 1GE/{module}/2
+    type: 1000base-t
+  - name: 1GE/{module}/3
+    type: 1000base-t
+  - name: 1GE/{module}/4
+    type: 1000base-t

@@ -1,0 +1,10 @@
+---
+manufacturer: HPE
+model: 817721-B21
+part_number: 817721-B21
+comments: HPE Ethernet 535FLR‑T Adapter
+interfaces:
+  - name: 10GE/{module}/1
+    type: 10gbase-t
+  - name: 10GE/{module}/2
+    type: 10gbase-t

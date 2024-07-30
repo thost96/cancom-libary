@@ -1,0 +1,14 @@
+---
+manufacturer: Lenovo
+model: 4XC7A08242
+part_number: 4XC7A08242
+description: ThinkSystem Broadcom 57454 10/25GbE SFP28 4-port OCP Ethernet Adapter
+interfaces:
+  - name: 25GE/{module}/1
+    type: 25gbase-x-sfp28
+  - name: 25GE/{module}/2
+    type: 25gbase-x-sfp28
+  - name: 25GE/{module}/3
+    type: 25gbase-x-sfp28
+  - name: 25GE/{module}/4
+    type: 25gbase-x-sfp28

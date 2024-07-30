@@ -1,0 +1,10 @@
+---
+manufacturer: Lenovo
+model: 4XC7A08248
+part_number: 4XC7A08248
+description: ThinkSystem Mellanox ConnectX-6 Dx 100GbE QSFP56 2-port PCIe Ethernet Adapter
+interfaces:
+  - name: 100GE/{module}/1
+    type: 100gbase-x-qsfp56
+  - name: 100GE/{module}/2
+    type: 100gbase-x-qsfp56
