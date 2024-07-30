@@ -1,0 +1,22 @@
+---
+manufacturer: WatchGuard
+model: WG8593
+part_number: WG8593
+comments: WatchGuard Firebox M 8 Port SFP Fiber Module
+interfaces:
+  - name: eth0
+    type: 1000Base-sx
+  - name: eth1
+    type: 1000Base-sx
+  - name: eth2
+    type: 1000Base-sx
+  - name: eth3
+    type: 1000Base-sx
+  - name: eth4
+    type: 1000Base-sx
+  - name: eth5
+    type: 1000Base-sx
+  - name: eth6
+    type: 1000Base-sx
+  - name: eth7
+    type: 1000Base-sx

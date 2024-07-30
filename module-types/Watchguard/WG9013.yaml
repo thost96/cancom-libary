@@ -1,0 +1,9 @@
+---
+manufacturer: WatchGuard
+model: WG9013
+part_number: WG9013
+comments: WatchGuard Firebox M5800 Hot Swap Power Supply 
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c13
+    maximum_draw: 440
