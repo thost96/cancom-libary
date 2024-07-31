@@ -18,8 +18,6 @@ console-ports:
     type: usb-a
   - name: rear-usb2
     type: usb-a
-  - name: vga
-    type: de-15
 module-bays:
   - name: PSU1
     position: PSU1

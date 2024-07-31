@@ -5,6 +5,6 @@ part_number: 727055-B21
 comments: HPE Ethernet 10Gb 2-port 562SFP+ Adapter
 interfaces:
   - name: 10GE/{module}/1
-    type: 10gbase-x-sfp+
+    type: 10gbase-x-sfpp
   - name: 10GE/{module}/2
-    type: 10gbase-x-sfp+
+    type: 10gbase-x-sfpp

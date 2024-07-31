@@ -13,14 +13,10 @@ console-ports:
     type: de-9
   - name: front-usb1
     type: usb-a
-  - name: front-vga
-    type: de-15
   - name: rear-usb1
     type: usb-a
   - name: rear-usb2
     type: usb-a
-  - name: rear-vga
-    type: de-15
 module-bays:
   - name: PSU0
     position: PSU0
