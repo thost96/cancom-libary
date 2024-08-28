@@ -2,7 +2,7 @@
 manufacturer: WatchGuard
 model: WG8592
 part_number: WG8592
-comments: WatchGuard Firebox M 8 Port 1 Gb Copper Module
+description: WatchGuard Firebox M 8 Port 1 Gb Copper Module
 interfaces:
   - name: eth0
     type: 1000base-t

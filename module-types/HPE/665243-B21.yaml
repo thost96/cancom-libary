@@ -2,7 +2,7 @@
 manufacturer: HPE
 model: 665243-B21
 part_number: 665243-B21
-comments: HPE Ethernet 10Gb 2-port 560FLR-SFP+ Adapter
+description: HPE Ethernet 10Gb 2-port 560FLR-SFP+ Adapter
 interfaces:
   - name: 10GE/{module}/1
     type: 10gbase-x-sfpp

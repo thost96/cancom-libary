@@ -2,7 +2,7 @@
 manufacturer: HPE
 model: 727054-B21
 part_number: 727054-B21
-comments: HPE Ethernet 10 Gb FLR‑SFP+ X710‑DA2 Adapter
+description: HPE Ethernet 10 Gb FLR‑SFP+ X710‑DA2 Adapter
 interfaces:
   - name: 10GE/{module}/1
     type: 10gbase-x-sfpp

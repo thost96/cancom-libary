@@ -1,12 +1,12 @@
 ---
 manufacturer: Lenovo
-model: ThinkSystem SR665V3
-slug: lenovo-thinksystem-sr665v3
-part_number: 7D9A
+model: ThinkSystem SR655V3
+slug: lenovo-thinksystem-sr655v3
+part_number: 7D9E
 u_height: 2
 is_full_depth: true
 airflow: front-to-rear
-comments: '[Lenovo ThinkSystem SR665 V3 Server Product Guide](https://lenovopress.lenovo.com/lp1608-thinksystem-sr665-v3-server)'
+comments: '[Lenovo ThinkSystem SR655 V3 Server Product Guide](https://lenovopress.lenovo.com/lp1610-thinksystem-sr655-v3-server)'
 weight: 39
 weight_unit: kg
 console-ports:

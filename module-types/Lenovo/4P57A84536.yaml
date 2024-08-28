@@ -1,0 +1,9 @@
+---
+manufacturer: Lenovo
+model: 4P57A84536
+part_number: 4P57A84536
+description: D4390 Titanium 1300W AC-DC CSRP PSU
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1300

@@ -2,7 +2,7 @@
 manufacturer: WatchGuard
 model: WG8023
 part_number: WG8023
-comments: WatchGuard Firebox M 2 Port 40 Gb QSFP+ Fiber Module
+description: WatchGuard Firebox M 2 Port 40 Gb QSFP+ Fiber Module
 interfaces:
   - name: eth0
     type: 40gbase-x-qsfpp

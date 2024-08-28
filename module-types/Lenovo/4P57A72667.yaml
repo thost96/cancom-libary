@@ -2,7 +2,7 @@
 manufacturer: Lenovo
 model: module-types/Lenovo/4P57A72666.yaml
 part_number: module-types/Lenovo/4P57A72666.yaml
-comments: ThinkSystem 2600W 230V Titanium Hot-Swap Gen2 Power Supply v4
+description: ThinkSystem 2600W 230V Titanium Hot-Swap Gen2 Power Supply v4
 power-ports:
   - name: '{module}'
     type: iec-60320-c20

@@ -2,7 +2,7 @@
 manufacturer: Lenovo
 model: 4P57A26296
 part_number: 4P57A26296
-comments: ThinkSystem 1100W -48V DC Hot-Swap Gen2 Power Supply
+description: ThinkSystem 1100W -48V DC Hot-Swap Gen2 Power Supply
 power-ports:
   - name: '{module}'
     type: dc-terminal
