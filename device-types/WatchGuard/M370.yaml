@@ -2,7 +2,7 @@
 manufacturer: WatchGuard
 model: Firebox M370
 slug: watchguard-firebox-m370
-u_height: 1.0
+u_height: 1
 is_full_depth: false
 airflow: front-to-rear
 comments: '[Firebox M370, M470, M570 and M670 Hardware Guide](https://www.watchguard.com/help/docs/hardware%20guides/Firebox_M370_470_570_670_Hardware_Guide.pdf)'
@@ -17,19 +17,19 @@ power-ports:
     maximum_draw: 220
     allocated_draw: 220
 interfaces:
-  - name: eth0
+  - name: '0'
     type: 1000base-t
-  - name: eth1
+  - name: '1'
     type: 1000base-t
-  - name: eth2
+  - name: '2'
     type: 1000base-t
-  - name: eth3
+  - name: '3'
     type: 1000base-t
-  - name: eth4
+  - name: '4'
     type: 1000base-t
-  - name: eth5
+  - name: '5'
     type: 1000base-t
-  - name: eth6
+  - name: '6'
     type: 1000base-t
-  - name: eth7
+  - name: '7'
     type: 1000base-t
