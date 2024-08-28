@@ -1,0 +1,15 @@
+---
+manufacturer: NetApp
+model: AFF-C400
+slug: netapp-aff-c400
+part_number: AFF-C400-000-C
+comments: '[AFF C400 Systems Installation and Setup Instructions](https://docs.netapp.com/de-de/ontap-systems/media/PDF/Jan_2024_Rev5_AFFC400_ISI_IEOPS-1497.pdf)'
+u_height: 4
+is_full_depth: true
+weight: 50
+weight_unit: kg
+module-bays:
+  - name: ConA
+    position: top
+  - name: ConB
+    position: bottom

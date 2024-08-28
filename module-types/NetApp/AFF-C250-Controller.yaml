@@ -1,0 +1,24 @@
+---
+manufacturer: NetApp
+model: 4P57A26294
+part_number: 4P57A26294
+description: NetApp AFF C250 Controller
+module-bays:
+  - name: PCIe1
+    position: PCIe1
+  - name: PCIe2
+    position: PCIe2
+interfaces:
+  - name: {module}/e0m
+    type: 1000base-t
+    mgmt_only: true
+  - name: {module}/e0a
+    type: 10gbase-t
+  - name: {module}/e0b
+    type: 10gbase-t
+  - name: {module}/e0c
+    type: 25gbase-x-sfp28
+    label: intercluster
+  - name: {module}/e0d
+    type: 25gbase-x-sfp28
+    label: intercluster

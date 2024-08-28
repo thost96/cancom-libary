@@ -3,26 +3,17 @@ manufacturer: NetApp
 model: AFF-C250
 slug: netapp-aff-c250
 part_number: AFF-C250-000-C
+comments: '[AFF C250 Systems Installation and Setup Instructions](https://docs.netapp.com/de-de/ontap-systems/media/PDF/Mar_2024_Rev4_AFFC250_ISI_IEOPS-1611.pdf)'
 u_height: 2
 is_full_depth: true
-weight: 21.1
+weight: 30
 weight_unit: kg
 module-bays:
+  - name: ConA
+    position: top
+  - name: ConB
+    position: bottom
   - name: PSU1
     position: '1'
   - name: PSU2
     position: '2'
-  - name: ConA
-  - name: ConB
-  - name: PCIe1
-    position: PCIe1
-    label: primary riser
-  - name: PCIe2
-    position: PCIe2
-    label: primary riser
-  - name: PCIe3
-    position: PCIe3
-    label: primary riser
-  - name: PCIe4
-    position: PCIe4
-    label: secondary riser
