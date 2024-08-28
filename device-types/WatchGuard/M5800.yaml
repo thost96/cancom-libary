@@ -22,13 +22,23 @@ interfaces:
 module-bays:
   - name: PSU1
     position: PSU1
+    # WG9013
   - name: PSU2
     position: PSU2
+    # WG9013
   - name: SlotA
     position: A
+    # WG8023 or WG8592 or WG8593 or WG8594
+    # default: WG8594
   - name: SlotB
     position: B
+    # WG8023 or WG8592 or WG8593 or WG8594
+    # default: WG8594
   - name: SlotC
     position: C
+    # WG8023 or WG8592 or WG8593 or WG8594
+    # default: none
   - name: SlotD
     position: D
+    # WG8023 or WG8592 or WG8593 or WG8594
+    # default: none
