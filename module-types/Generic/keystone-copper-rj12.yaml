@@ -4,7 +4,7 @@ model: Keystone Copper RJ12
 slug: generic-keystone-copper-rj12
 front-ports:
   - name: '{module}-RJ12'
-    type: rj-12
+    type: 6p6c
     rear_port: '{module}-RJ12'
     rear_port_position: 1
 rear-ports:

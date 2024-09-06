@@ -4,9 +4,10 @@ model: Keystone USB-A
 slug: generic-keystone-usb-a
 front-ports:
   - name: '{module}-USB-A'
-    type: usb-a
+    type: other
     rear_port: '{module}-USB-A'
     rear_port_position: 1
 rear-ports:
   - name: '{module}-USB-A'
+    type: other
     positions: 1
