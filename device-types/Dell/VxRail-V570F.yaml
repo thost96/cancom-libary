@@ -8,6 +8,8 @@ airflow: front-to-rear
 comments: '[Dell VxRail V570F Owner's Manual](https://www.dell.com/support/manuals/en-rs/vxrail-appliance-series/vxr_p_p-v-s570_om/)'
 weight: 28.1
 weight_unit: kg
+front_image: false
+rear_image: false
 console-ports:
   - name: Optional Rear Serial
     type: de-9

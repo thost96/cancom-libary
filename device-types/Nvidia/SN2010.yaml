@@ -4,6 +4,8 @@ model: SN2010
 slug: nvidia-mlx-sn2010
 u_height: 1
 is_full_depth: true
+front_image: false
+rear_image: false
 console-ports:
   - name: con0
     type: rj-45

@@ -9,6 +9,8 @@ airflow: front-to-rear
 comments: '[Lenovo ThinkSystem D4390 Product Guide](https://lenovopress.lenovo.com/lp1610-thinksystem-sr655-v3-server)'
 weight: 45
 weight_unit: kg
+front_image: false
+rear_image: false
 module-bays:
   - name: PSU0
     position: PSU0

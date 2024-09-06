@@ -1,4 +1,4 @@
---
+---
 manufacturer: Cisco
 model: Nexus 93360YC-FX2
 part_number: N9K-C93360YC-FX2
@@ -7,6 +7,8 @@ u_height: 2
 weight: 12.4
 weight_unit: kg
 is_full_depth: true
+front_image: false
+rear_image: false
 airflow: rear-to-front
 console-ports:
   - name: console

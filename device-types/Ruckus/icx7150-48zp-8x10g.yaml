@@ -4,6 +4,8 @@ model: ICX 7150-48ZP-8x10G
 slug: ruckus-icx7150-48zp-8x10g
 part_number: ICX7150-48ZP-8x10G
 is_full_depth: false
+front_image: false
+rear_image: false
 u_height: 1
 interfaces:
   - name: mgmt1

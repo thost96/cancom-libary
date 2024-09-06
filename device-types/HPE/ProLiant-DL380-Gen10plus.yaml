@@ -9,6 +9,8 @@ part_number: P55278-421
 comments: '[HPE ProLiant DL380 G10 Plus Server](https://www.hpe.com/psnow/doc/PSN1013291298USEN.pdf)'
 weight: 17.13
 weight_unit: kg
+front_image: false
+rear_image: false
 console-ports:
   - name: Serial
     type: de-9

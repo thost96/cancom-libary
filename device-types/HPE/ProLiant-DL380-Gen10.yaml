@@ -9,6 +9,8 @@ part_number: P19717-B21
 comments: '[HPE ProLiant DL380 G10 Server QuickSpecs](https://www.hpe.com/psnow/doc/a00008180enw.pdf)'
 weight: 14.90
 weight_unit: kg
+front_image: false
+rear_image: false
 console-ports:
   - name: Serial
     type: de-9

@@ -8,6 +8,8 @@ airflow: front-to-rear
 comments: '[Dell R740xd Data Sheet](https://www.dell.com/learn/yu/en/yupad1/shared-content~data-sheets~en/documents~poweredge-r740xd-spec-sheet.pdf)'
 weight: 33.1
 weight_unit: kg
+front_image: false
+rear_image: false
 console-ports:
   - name: Optional Rear Serial
     type: de-9

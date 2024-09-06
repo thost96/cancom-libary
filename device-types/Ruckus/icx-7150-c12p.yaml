@@ -5,6 +5,8 @@ slug: ruckus-icx7150-c12p
 part_number: ICX7150-C12P
 is_full_depth: false
 u_height: 1
+front_image: false
+rear_image: false
 interfaces:
   - name: oob-mgmt1
     type: 1000base-t

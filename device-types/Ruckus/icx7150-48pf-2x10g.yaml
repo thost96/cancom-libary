@@ -5,6 +5,8 @@ slug: ruckus-icx7150-48pf-2x10g
 part_number: ICX7150-48PF-2x10G
 is_full_depth: false
 u_height: 1
+front_image: false
+rear_image: false
 interfaces:
   - name: mgmt1
     type: 1000base-t

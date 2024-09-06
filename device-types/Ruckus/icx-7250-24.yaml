@@ -5,6 +5,8 @@ slug: ruckus-icx7250-24
 part_number: ICX7250-24
 is_full_depth: false
 u_height: 1
+front_image: false
+rear_image: false
 interfaces:
   - name: GigEthernetmgmt1
     type: 1000base-t
