@@ -1,6 +1,7 @@
 ---
 manufacturer: NetApp
-part_number: 114-00040
+part_number: '114-00040'
+slug: netapp-powersupply-1300w
 description: NetApp FAS8040 1300 W AC Power Supply
 comments: 'FAS8040-BASE-PWR'
 power-ports:

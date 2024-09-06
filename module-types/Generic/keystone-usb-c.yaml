@@ -9,5 +9,4 @@ front-ports:
     rear_port_position: 1
 rear-ports:
   - name: '{module}-USB-C'
-    type: usb-c
     positions: 1

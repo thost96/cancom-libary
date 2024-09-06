@@ -2,7 +2,6 @@
 manufacturer: NetApp
 model: FAS8040 Controller
 slug: netapp-fas-8040-controller
-part_number: ''
 description: NetApp FAS8040 Controller
 subdevice_role: child
 module-bays:

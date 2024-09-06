@@ -9,5 +9,4 @@ front-ports:
     rear_port_position: 1
 rear-ports:
   - name: '{module}-USB-A'
-    type: usb-a
     positions: 1
