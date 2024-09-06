@@ -1,0 +1,10 @@
+---
+manufacturer: Generic
+model: Blanking Panel 3U
+slug: generic-blanking-panel-3u
+u_height: 3.0
+is_powered: false
+is_full_depth: false
+airflow: passive
+front_image: true
+rear_image: false

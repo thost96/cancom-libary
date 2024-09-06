@@ -1,0 +1,10 @@
+---
+manufacturer: Generic
+model: Shelf 2U
+slug: generic-shelf-2u
+u_height: 2.0
+is_powered: false
+is_full_depth: false
+airflow: passive
+front_image: true
+rear_image: false

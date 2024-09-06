@@ -1,0 +1,10 @@
+---
+manufacturer: Generic
+model: Cable Management Panel 1U
+slug: generic-cable-management-panel-1u
+u_height: 1.0
+is_powered: false
+is_full_depth: false
+airflow: passive
+front_image: true
+rear_image: false

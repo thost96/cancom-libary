@@ -1,0 +1,13 @@
+---
+manufacturer: Generic
+model: Keystone USB-C
+slug: generic-keystone-usb-c
+front-ports:
+  - name: '{module}-USB-C'
+    type: usb-c
+    rear_port: '{module}-USB-C'
+    rear_port_position: 1
+rear-ports:
+  - name: '{module}-USB-C'
+    type: usb-c
+    positions: 1

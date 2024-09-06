@@ -1,0 +1,13 @@
+---
+manufacturer: Generic
+model: Keystone Fiber ST
+slug: generic-keystone-fiber-ST
+front-ports:
+  - name: '{module}-ST'
+    type: st
+    rear_port: '{module}-ST'
+    rear_port_position: 1
+rear-ports:
+  - name: '{module}-ST'
+    type: st
+    positions: 1
