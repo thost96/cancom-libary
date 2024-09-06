@@ -1,0 +1,21 @@
+---
+manufacturer: NetApp
+model: DS2246
+slug: netapp-shelf-ds2246
+part_number: 111-00804
+description: NetApp DS2246 Disk Shelf
+u_height: 2
+is_full_depth: true
+weight: 18
+weight_unit: kg
+front_image: false
+rear_image: false
+module-bays:
+  - name: IOM1
+    position: top_left
+  - name: IOM2
+    position: top_right
+  - name: PSU1
+    position: bottom_left
+  - name: PSU2
+    position: bottom_right

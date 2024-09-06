@@ -14,16 +14,12 @@ rear_image: true
 module-bays:
   - name: PSU0
     position: PSU0
-    # 4P57A84536
   - name: PSU1
     position: PSU1
-    # 4P57A84536
   - name: PSU2
     position: PSU2
-    # 4P57A84536
   - name: PSU3
     position: PSU3
-    # 4P57A84536
   - name: ESM0
     position: left
   - name: ESM1
