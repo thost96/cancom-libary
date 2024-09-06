@@ -4,11 +4,11 @@ model: WG8594
 part_number: WG8594
 description: WatchGuard Firebox M 4 Port 10 Gb SFP+ Fiber Module
 interfaces:
-  - name: {module}/0
+  - name: '{module}/0'
     type: 10gbase-x-sfpp
-  - name: {module}/1
+  - name: '{module}/1'
     type: 10gbase-x-sfpp
-  - name: {module}/2
+  - name: '{module}/2'
     type: 10gbase-x-sfpp
-  - name: {module}/3
+  - name: '{module}/3'
     type: 10gbase-x-sfpp

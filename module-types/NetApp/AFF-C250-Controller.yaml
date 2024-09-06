@@ -9,16 +9,16 @@ module-bays:
   - name: PCIe2
     position: PCIe2
 interfaces:
-  - name: {module}/e0m
+  - name: '{module}/e0m'
     type: 1000base-t
     mgmt_only: true
-  - name: {module}/e0a
+  - name: '{module}/e0a'
     type: 10gbase-t
-  - name: {module}/e0b
+  - name: '{module}/e0b'
     type: 10gbase-t
-  - name: {module}/e0c
+  - name: '{module}/e0c'
     type: 25gbase-x-sfp28
     label: intercluster
-  - name: {module}/e0d
+  - name: '{module}/e0d'
     type: 25gbase-x-sfp28
     label: intercluster

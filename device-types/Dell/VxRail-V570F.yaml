@@ -5,7 +5,7 @@ slug: dell-vxrail-v570f
 u_height: 2
 is_full_depth: true
 airflow: front-to-rear
-comments: '[Dell VxRail V570F Owner's Manual](https://www.dell.com/support/manuals/en-rs/vxrail-appliance-series/vxr_p_p-v-s570_om/)'
+comments: '[Dell VxRail V570F Owners Manual](https://www.dell.com/support/manuals/en-rs/vxrail-appliance-series/vxr_p_p-v-s570_om/)'
 weight: 28.1
 weight_unit: kg
 front_image: false

@@ -24,7 +24,6 @@ module-bays:
   - name: PSU3
     position: PSU3
     # 4P57A84536
-module-bays:
   - name: ESM0
     position: left
   - name: ESM1
