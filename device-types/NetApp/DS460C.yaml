@@ -1,0 +1,24 @@
+---
+manufacturer: NetApp
+model: DS460C
+slug: netapp-shelf-ds460c
+description: NetApp DS460C Disk Shelf
+u_height: 4
+is_full_depth: true
+weight: 112
+weight_unit: kg
+front_image: false
+rear_image: false
+module-bays:
+  - name: IOM1
+    position: top
+  - name: IOM2
+    position: bottom
+  - name: PSU1
+    position: top
+  - name: PSU2
+    position: bottom
+  - name: FAN1
+    position: left
+  - name: FAN2
+    position: right

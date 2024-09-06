@@ -1,0 +1,20 @@
+---
+manufacturer: NetApp
+model: NS224
+slug: netapp-shelf-ns224
+description: NetApp NS224 NVMe Disk Shelf
+u_height: 2
+is_full_depth: true
+weight: 28.2
+weight_unit: kg
+front_image: false
+rear_image: false
+module-bays:
+  - name: NSM1
+    position: top_left
+  - name: NSM2
+    position: top_right
+  - name: PSU1
+    position: bottom_left
+  - name: PSU2
+    position: bottom_right

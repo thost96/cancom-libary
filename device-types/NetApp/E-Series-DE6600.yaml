@@ -1,0 +1,24 @@
+---
+manufacturer: NetApp
+model: DE6600
+slug: netapp-shelf-de6600
+description: NetApp DE6600 Disk Shelf
+u_height: 4
+is_full_depth: true
+weight: 112.2
+weight_unit: kg
+front_image: false
+rear_image: false
+module-bays:
+  - name: IOM1
+    position: top
+  - name: IOM2
+    position: bottom
+  - name: PSU1
+    position: top
+  - name: PSU2
+    position: bottom
+  - name: FAN1
+    position: left
+  - name: FAN2
+    position: right
