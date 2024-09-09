@@ -1,0 +1,11 @@
+---
+manufacturer: Lenovo
+model: 4Y37A09724
+part_number: 4Y37A09724
+description: ThinkSystem 440-16e SAS/SATA PCIe Gen4 12Gb HBA
+comments: '[ThinkSystem 440-8e and 440-16e External SAS HBAs Product Guide](https://lenovopress.lenovo.com/lp1308-thinksystem-440-8e-16e-external-sas-hba)'
+interfaces:
+  - name: SAS/{module}/1
+    type: other
+  - name: SAS/{module}/2
+    type: other
