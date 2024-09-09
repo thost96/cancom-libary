@@ -2,6 +2,7 @@
 manufacturer: Lenovo
 model: 4Y37A78837
 part_number: 4Y37A78837
+slug: lenovo-thinkSystem-440-8e
 description: ThinkSystem 440-8e SAS/SATA PCIe Gen4 12Gb HBA
 comments: '[ThinkSystem 440-8e and 440-16e External SAS HBAs Product Guide](https://lenovopress.lenovo.com/lp1308-thinksystem-440-8e-16e-external-sas-hba)'
 interfaces:
