@@ -1,13 +1,10 @@
 ---
 manufacturer: Lenovo
-model: ThinkSystem RAID 940-16i 4GB PCIe
-part_number: 4Y37A78600
-description: ThinkSystem RAID 940-16i 4GB Flash PCIe Gen4 12Gb Adapter
+model: ThinkSystem RAID 940-8i 8GB PCIe
+part_number: 4Y37A09729
+description: ThinkSystem RAID 940-8i 8GB Flash PCIe Gen4 12Gb Adapter
 comments: '[Lenovo ThinkSystem RAID 940 Series Internal RAID Adapters Product Guide](https://lenovopress.lenovo.com/lp1282-thinksystem-raid-940-series-internal-raid-adapters)'
 interfaces:
   - name: '{module}/SAS1'
-    description: x8 SFF-8654
-    type: other
-  - name: '{module}/SAS2'
     description: x8 SFF-8654
     type: other

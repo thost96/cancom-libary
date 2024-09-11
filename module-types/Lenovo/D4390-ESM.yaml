@@ -5,11 +5,15 @@ slug: lenovo-thinkSystem-d4390-esm
 part_number: 7DAH
 comments: '[Lenovo ThinkSystem D4390 Product Guide](https://lenovopress.lenovo.com/lp1681-lenovo-storage-thinksystem-d4390-high-density-expansion-enclosure)'
 interfaces:
-  - name: SAS/{module}/A
+  - name: '{module}/SAS/A'
+    description: Host-Port
     type: other
-  - name: SAS/{module}/B
+  - name: '{module}/SAS/B'
+    description: Host-Port
     type: other
-  - name: SAS/{module}/C
+  - name: '{module}/SAS/C'
+    description: Host-Port
     type: other
-  - name: SAS/{module}/D
+  - name: '{module}/SAS/D'
+    description: Host-Port or Expansion
     type: other

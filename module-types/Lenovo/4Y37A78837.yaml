@@ -6,7 +6,9 @@ slug: lenovo-thinkSystem-440-8e
 description: ThinkSystem 440-8e SAS/SATA PCIe Gen4 12Gb HBA
 comments: '[ThinkSystem 440-8e and 440-16e External SAS HBAs Product Guide](https://lenovopress.lenovo.com/lp1308-thinksystem-440-8e-16e-external-sas-hba)'
 interfaces:
-  - name: SAS/{module}/1
+  - name: '{module}/SAS1'
+    description: Mini-SAS HD SFF8644
     type: other
-  - name: SAS/{module}/2
+  - name: '{module}/SAS2'
+    description: Mini-SAS HD SFF8644
     type: other
