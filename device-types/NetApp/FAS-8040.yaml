@@ -7,8 +7,8 @@ u_height: 6
 is_full_depth: true
 weight: 50
 weight_unit: kg
-front_image: false
-rear_image: false
+front_image: true
+rear_image: true
 module-bays:
   - name: ConA
     position: 1

@@ -12,10 +12,10 @@ front_image: false
 rear_image: false
 module-bays:
   - name: ConA
-    position: top
+    position: 1
   - name: ConB
-    position: bottom
+    position: 2
   - name: PSU1
-    position: '1'
+    position: 3
   - name: PSU2
-    position: '2'
+    position: 4

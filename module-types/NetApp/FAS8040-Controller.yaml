@@ -12,7 +12,7 @@ module-bays:
   - name: Slot4
     position: 4
 console-ports:
-  - name: con0
+  - name: '{module}/con0'
     type: rj-45
   - name: usb
     type: usb-a

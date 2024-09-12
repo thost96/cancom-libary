@@ -11,10 +11,10 @@ front_image: false
 rear_image: false
 module-bays:
   - name: IOM1
-    position: top_left
+    position: 1
   - name: IOM2
-    position: top_right
+    position: 2
   - name: PSU1
-    position: bottom_left
+    position: 3
   - name: PSU2
-    position: bottom_right
+    position: 4
