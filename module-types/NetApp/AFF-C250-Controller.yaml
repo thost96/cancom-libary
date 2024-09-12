@@ -1,8 +1,7 @@
 ---
 manufacturer: NetApp
-model: 4P57A26294
+model: NetApp AFF C250 Controller
 part_number: 4P57A26294
-slug: netapp-aff-c250-controller
 description: NetApp AFF C250 Controller
 module-bays:
   - name: PCIe1

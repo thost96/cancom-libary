@@ -1,7 +1,6 @@
 ---
 manufacturer: NetApp
-model: IOM6
-slug: netapp-iom6
+model: IOM6 SAS 6Gb Controller Module
 part_number: X5713A-R6
 description: IOM6 SAS 6Gb Controller Module
 subdevice_role: child

@@ -2,7 +2,7 @@
 manufacturer: NetApp
 model: FAS-8040
 slug: netapp-fas-8040-shelf
-comments: '[AFF C400 Systems Installation and Setup Instructions](https://docs.netapp.com/de-de/ontap-systems/media/PDF/Jan_2024_Rev5_AFFC400_ISI_IEOPS-1497.pdf)'
+comments: '[FAS8040 Documentation](https://mysupport.netapp.com/documentation/docweb/index.html?productID=61632&language=en-US)'
 u_height: 6
 is_full_depth: true
 weight: 50
@@ -11,10 +11,10 @@ front_image: false
 rear_image: false
 module-bays:
   - name: ConA
-    position: top
+    position: 1
   - name: ConB
-    position: bottom
+    position: 2
   - name: PSU1
-    position: top
+    position: 3
   - name: PSU2
-    position: bottom
+    position: 4

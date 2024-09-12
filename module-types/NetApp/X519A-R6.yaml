@@ -1,8 +1,7 @@
 ---
 manufacturer: NetApp
-model: X519A-R6
+model: NetApp 750W Power Supply for DS2243/DS2246
 part_number: X519A-R6
-slug: netapp-powersupply-750w
 description: NetApp 750W Power Supply for DS2243/DS2246
 power-ports:
   - name: '{module}'

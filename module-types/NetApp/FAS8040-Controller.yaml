@@ -1,18 +1,16 @@
 ---
 manufacturer: NetApp
-model: FAS8040 Controller
-slug: netapp-fas-8040-controller
-description: NetApp FAS8040 Controller
-subdevice_role: child
+model: FAS-8040 Controller
+description: NetApp FAS-8040 Controller
 module-bays:
   - name: Slot1
-    position: Riser1top
+    position: 1
   - name: Slot2
-    position: Riser1bottom
+    position: 2
   - name: Slot3
-    position: Riser2top
+    position: 3
   - name: Slot4
-    position: Riser2bottom
+    position: 4
 console-ports:
   - name: con0
     type: rj-45
