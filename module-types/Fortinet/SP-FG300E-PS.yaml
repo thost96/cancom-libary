@@ -1,0 +1,11 @@
+---
+manufacturer: Fortinet
+model: FortiGate SP-FG300E-PS
+slug: fortinet-sp-fg300e-ps
+part_number: SP-FG300E-PS
+description: AC power supply for FG-300/301E, FG-400/401E, FG-500/501E, FG-600/601E, FAZ-200F/300F/800F, FMG-200F/300F
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 244
+    allocated_draw: 129

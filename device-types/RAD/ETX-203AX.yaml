@@ -1,0 +1,43 @@
+---
+manufacturer: RAD
+model: ETX-203AX
+slug: rad-etx-203ax
+part_number:
+description:
+comments: '[RAD ETX-203AX Datasheet](https://bestdatasource.com/rad/data_sheets/etx-203ax.pdf)'
+u_height: 1
+is_full_depth: false
+weight: 0.7
+weight_unit: kg
+front_image: false
+rear_image: false
+airflow: passive
+power-ports:
+  - name: power
+    type: iec-60320-c14
+    maximum_draw: 15
+console-ports:
+  - name: control
+    type: rj-45
+interfaces:
+  - name: MNG-ETH
+    type: 100base-tx
+    mgmt_only: true
+  - name: ETH1
+    label: NET
+    type: 1000base-x-sfp
+  - name: ETH2
+    label: NET/USER
+    type: 1000base-x-sfp
+  - name: ETH3
+    label: USER
+    type: 1000base-t
+  - name: ETH4
+    label: USER
+    type: 1000base-t
+  - name: ETH5
+    label: USER
+    type: 1000base-t
+  - name: ETH6
+    label: USER
+    type: 1000base-t
