@@ -2,7 +2,6 @@
 manufacturer: Lenovo
 model: ThinkSystem D4390 ESM
 slug: lenovo-thinkSystem-d4390-esm
-part_number: 7DAH
 comments: '[Lenovo ThinkSystem D4390 Product Guide](https://lenovopress.lenovo.com/lp1681-lenovo-storage-thinksystem-d4390-high-density-expansion-enclosure)'
 interfaces:
   - name: '{module}/SAS/A'
