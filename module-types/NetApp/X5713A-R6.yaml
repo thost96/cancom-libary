@@ -9,7 +9,7 @@ interfaces:
     type: 1000base-t
   - name: '1G/{module}/2'
     type: 1000base-t
-  - name: '{module}/SAS1'
+  - name: 'SAS/{module}/1'
     type: other
-  - name: '{module}/SAS2'
+  - name: 'SAS/{module}/2'
     type: other
