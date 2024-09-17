@@ -10,8 +10,8 @@ airflow: front-to-rear
 comments: '[Cisco UCS X9508 Chassis Data Sheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/datasheet-c78-2472574.html)'
 weight: 41.73
 weight_unit: kg
-front_image: false
-rear_image: false
+front_image: true
+rear_image: true
 device-bays:
   - name: Slot1
   - name: Slot2
