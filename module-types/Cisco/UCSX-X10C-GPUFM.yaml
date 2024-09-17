@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: UCS X210c M6 Compute Node Front Mezz 2x T4 GPUs and 2x NVMe
+part_number: UCSX-X10C-GPUFM
+description: 'Cisco UCS X210c M6 Compute Node Front Mezz to support up to 2 NVIDIA T4 GPUs and 2 NVMe drives | Front Mezzanine Slot only'
+module-bays:
+  - name: NVME1
+    position: 1
+  - name: NVME2
+    position: 2
+  - name: GPU1
+    position: 3
+  - name: GPU2
+    position: 4

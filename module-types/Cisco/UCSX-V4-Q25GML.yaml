@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: UCS VIC 14425 4x25G mLOM
+part_number: UCSX-V4-Q25GML
+description: 'UCS VIC 14425 4x25G mLOM for X Compute Node  | Rear mLOM Slot only'
+interfaces:
+  - name: '{module}/Port1'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port2'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port3'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port4'
+    type: 25gbase-x-sfp28

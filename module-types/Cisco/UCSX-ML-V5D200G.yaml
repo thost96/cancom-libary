@@ -1,0 +1,11 @@
+---
+manufacturer: Cisco
+model: UCS VIC 15231 2x100G mLOM
+Node
+part_number: UCSX-ML-V5D200G
+description: 'Cisco UCS VIC 15231 2x100G mLOM for X Compute Node | Rear mLOM Slot only'
+interfaces:
+  - name: '{module}/Port1'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port2'
+    type: 100gbase-x-sfpdd

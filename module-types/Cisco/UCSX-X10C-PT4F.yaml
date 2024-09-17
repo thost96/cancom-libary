@@ -1,0 +1,18 @@
+---
+manufacturer: Cisco
+model: UCS X210c M6 Compute Node pass through controller 6x NVMe
+part_number: UCSX-X10C-PT4F
+description: 'Cisco UCS X210c M6 Compute Node pass through controller for up to 6 NVMe drives | Front Mezzanine Slot only'
+module-bays:
+  - name: NVME1
+    position: 1
+  - name: NVME2
+    position: 2
+  - name: NVME3
+    position: 3
+  - name: NVME4
+    position: 4
+  - name: NVME5
+    position: 5
+  - name: NVME6
+    position: 6

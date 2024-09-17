@@ -1,0 +1,10 @@
+---
+manufacturer: Cisco
+model: UCS VIC 15230 2x 100G mLOM Secure Boot
+part_number: UCSX-ML-V5D200GV2
+description: 'Cisco UCS VIC 15230 2x 100G mLOM w/Secure Boot X Compute Node | Rear mLOM Slot only'
+interfaces:
+  - name: '{module}/Port1'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port2'
+    type: 100gbase-x-sfpdd

@@ -1,0 +1,11 @@
+---
+manufacturer: Cisco
+model: X440p PCIe node Riser B 2x single slot
+part_number: UCSX-RIS-B-440P
+description: Riser B for 2x single slot GPUs per riser, X440p PCIe node (HHHL GPUs)
+comments: '[Cisco UCS X440p PCle Node Data Sheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/ucs-x440p-pcle-node-ds.htmlf)'
+module-bays:
+  - name: '{module}/Slot1'
+    type: other
+  - name: '{module}/Slot2'
+    type: other

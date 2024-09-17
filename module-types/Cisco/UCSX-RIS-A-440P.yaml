@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: X440p PCIe node Riser A 1x dual slot
+part_number: UCSX-RIS-A-440P
+description: Riser A for 1x dual slot GPU per riser, X440p PCIe node (FHFL GPUs)
+comments: '[Cisco UCS X440p PCle Node Data Sheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/ucs-x440p-pcle-node-ds.htmlf)'
+module-bays:
+  - name: '{module}/Slot1'
+    type: other

@@ -1,0 +1,25 @@
+---
+manufacturer: Cisco
+model: UCS X-Series Direct Fabric Interconnect 9108 100G
+part_number: UCSX-S9108-100G
+description: UCS X-Series Direct Fabric Interconnect 9108 100G
+comments: '[Cisco UCS X-Series Direct Data Sheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/ucs-x-series-direct-ds.html)'
+weight: 3.9
+weight_unit: kg
+interfaces:
+  - name: '{module}/Port1'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port2'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port3'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port4'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port5'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port6'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port7'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port8'
+    type: 100gbase-x-sfpdd

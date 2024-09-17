@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: UCS VIC 15420 4x25G secure boot mLOM
+part_number: UCSX-ML-V5Q50G
+description: 'UCS VIC 15420 4x25G secure boot mLOM for X Compute Node | Rear mLOM Slot only'
+interfaces:
+  - name: '{module}/Port1'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port2'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port3'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port4'
+    type: 25gbase-x-sfp28

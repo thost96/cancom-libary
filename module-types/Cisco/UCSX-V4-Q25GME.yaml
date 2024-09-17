@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: UCS VIC 148251 4x25G mezz 
+part_number: UCSX-V4-Q25GME
+description: 'UCS VIC 148251 4x25G mezz for X Compute Node  | Rear Mezzanine Slot only'
+interfaces:
+  - name: '{module}/Port1'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port2'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port3'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port4'
+    type: 25gbase-x-sfp28

@@ -1,0 +1,38 @@
+---
+manufacturer: Cisco
+model: UCS X9508 Chassis
+slug: cisco-ucs-x9508-chassis
+part_number: UCSX-9508-U
+u_height: 7
+is_full_depth: true
+subdevice_role: parent
+airflow: front-to-rear
+comments: '[Cisco UCS X9508 Chassis Data Sheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/datasheet-c78-2472574.html)'
+weight: 41.73
+weight_unit: kg
+front_image: false
+rear_image: false
+device-bays:
+  - name: Slot1
+  - name: Slot2
+  - name: Slot3
+  - name: Slot4
+  - name: Slot5
+  - name: Slot6
+  - name: Slot7
+  - name: Slot8
+module-bays:
+  - name: PSU1
+  - name: PSU2
+  - name: PSU3
+  - name: PSU4
+  - name: PSU5
+  - name: PSU6
+  - name: IFM1
+  - name: IFM2
+  - name: XFM1
+  - name: XFM2
+  - name: FAN1
+  - name: FAN2
+  - name: FAN3
+  - name: FAN4

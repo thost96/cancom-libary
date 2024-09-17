@@ -1,0 +1,25 @@
+---
+manufacturer: Cisco
+model: UCS 9108-25G IFM for X9508 chassis
+part_number: UCSX-I-9108-25G
+description: UCS 9108-25G IFM for X9508 chassis
+comments: '[Cisco UCS 9108 25G Intelligent Fabric Module Spec Sheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/9108-25g-specsheet.pdf)'
+weight: 3.82
+weight_unit: kg
+interfaces:
+  - name: '{module}/Port1'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port2'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port3'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port4'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port5'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port6'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port7'
+    type: 25gbase-x-sfp28
+  - name: '{module}/Port8'
+    type: 25gbase-x-sfp28

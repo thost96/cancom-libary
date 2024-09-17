@@ -1,0 +1,25 @@
+---
+manufacturer: Cisco
+model: UCS 9108-100G IFM for X9508 chassis
+part_number: UCSX-I-9108-100G
+description: UCS 9108-100G IFM for X9508 chassis
+comments: '[Cisco UCS 9108 100G Intelligent Fabric Module Spec Sheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/cisco-ucs-9108-100g-intelligent-fabric-module-spec-sheet.pdf)'
+weight: 3.82
+weight_unit: kg
+interfaces:
+  - name: '{module}/Port1'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port2'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port3'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port4'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port5'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port6'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port7'
+    type: 100gbase-x-sfpdd
+  - name: '{module}/Port8'
+    type: 100gbase-x-sfpdd
