@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: UCS 64108 Power Supply/100-240VAC
+part_number: UCS-PSU-64108-AC
+description: UCS 64108 Power Supply/100-240VAC
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1200

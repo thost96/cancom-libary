@@ -1,0 +1,28 @@
+---
+manufacturer: Cisco
+model: UCS 215c M8 Compute Node
+slug: cisco-UCSX-215C-M8
+part_number: UCSX-215C-M8
+airflow: front-to-rear
+subdevice_role: child
+comments: '[Cisco UCS X215c M8 Compute Node Data Sheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/ucs-x215c-m8-compute-node.pdf)'
+weight: 11.39
+weight_unit: kg
+front_image: true
+rear_image: false
+console-ports:
+  - name: OCuLink console port
+    type: other
+interfaces:
+  - name: CIMC
+    type: virtual
+    mgmt_only: true
+module-bays:
+  - name: Rear mLOM
+    position: mlom_rear
+  - name: Rear Mezzanine
+    position: mezz_rear
+  - name: Front Mezzanine
+    position: mezz_front
+  - name: Internal M.2
+    postion: internal

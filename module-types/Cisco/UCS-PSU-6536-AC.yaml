@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: UCS 6536 Power Supply
+part_number: UCS-PSU-6536-AC
+description: UCS 6536 Power Supply/100-240VAC (1100 W)
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1100

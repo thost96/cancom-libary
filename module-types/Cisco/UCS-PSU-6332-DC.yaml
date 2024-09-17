@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: UCS 6332/6454/64108 Power Supply -48VDC
+part_number: UCS-PSU-6332-DC
+description: UCS 6332/6454/64108 Power Supply/-48VDC (930 W)
+power-ports:
+  - name: '{module}'
+    type: dc-terminal
+    maximum_draw: 930
