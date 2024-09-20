@@ -1,0 +1,19 @@
+---
+manufacturer: Huawei
+model: 100GE Ethernet optical interface card
+slug: huawei-LST7C06HX6E0
+part_number: LST7C06HX6E0
+description: 6-port 100GE QSFP28 interface card (X6E,QSFP28)
+interfaces:
+  - name: '100GE/{module}/1'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/2'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/3'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/4'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/5'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/6'
+    type: 100gbase-x-qsfp28

@@ -1,0 +1,40 @@
+---
+manufacturer: Huawei
+model: CloudEngine S12700E-8
+slug: huawei-S12700E-8
+part_number: ET1BS12708E0
+u_height: 15
+is_full_depth: false
+comments: '[Huawei CloudEngine S12700E Series Switches Brochure](https://e.huawei.com/en/material/networking/2a99da89b519413c8c39a9fb627edfa4)'
+weight: 114
+weight_unit: kg
+front_image: false
+rear_image: false
+console-ports:
+  - name: console
+    type: rj-45
+module-bays:
+  - name: PSU1
+  - name: PSU2
+  - name: PSU3
+  - name: PSU4
+  - name: PSU5
+  - name: PSU6
+  - name: FAN1
+  - name: FAN2
+  - name: FAN3
+  - name: FAN4
+  - name: MPU1
+  - name: MPU2
+  - name: SFU1
+  - name: SFU2
+  - name: SFU3
+  - name: SFU4
+  - name: LPU1
+  - name: LPU2
+  - name: LPU3
+  - name: LPU4
+  - name: LPU5
+  - name: LPU6
+  - name: LPU7
+  - name: LPU8

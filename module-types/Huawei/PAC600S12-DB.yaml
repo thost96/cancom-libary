@@ -1,0 +1,11 @@
+---
+manufacturer: Huawei
+model: 600W AC power module
+slug: huawei-pac600s12-db
+part_number: pac600s12-db
+description: 600W AC power module for S6730-H24X6C-V2/TV2
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 600
+    allocated_draw: 291

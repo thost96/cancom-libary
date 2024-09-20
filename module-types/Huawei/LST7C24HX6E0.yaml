@@ -1,0 +1,55 @@
+---
+manufacturer: Huawei
+model: 100GE Ethernet optical interface card
+slug: huawei-LST7C24HX6E0
+part_number: LST7C24HX6E0
+description: 24-port 100GE QSFP28 interface card (X6E,QSFP28)
+interfaces:
+  - name: '100GE/{module}/1'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/2'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/3'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/4'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/5'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/6'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/7'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/8'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/9'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/10'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/11'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/12'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/13'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/14'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/15'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/16'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/17'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/18'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/19'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/20'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/21'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/22'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/23'
+    type: 100gbase-x-qsfp28
+  - name: '100GE/{module}/24'
+    type: 100gbase-x-qsfp28
