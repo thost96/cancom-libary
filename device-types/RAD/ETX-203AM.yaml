@@ -3,7 +3,6 @@ manufacturer: RAD
 model: ETX-203AM
 slug: rad-etx-203am
 part_number: etx-203am
-description:
 comments: '[RAD ETX-203AM Datasheet](https://bestdatasource.com/rad/data_sheets/etx-203am.pdf)'
 u_height: 1
 is_full_depth: false

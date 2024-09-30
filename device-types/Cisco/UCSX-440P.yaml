@@ -5,6 +5,7 @@ slug: cisco-ucsx-440p
 part_number: UCSX-440P
 airflow: front-to-rear
 subdevice_role: child
+u_height: 0
 comments: '[Cisco UCS X440p PCle Node Data Sheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/ucs-x440p-pcle-node-ds.html)'
 front_image: true
 rear_image: false

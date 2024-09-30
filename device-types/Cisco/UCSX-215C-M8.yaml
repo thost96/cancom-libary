@@ -5,6 +5,7 @@ slug: cisco-UCSX-215C-M8
 part_number: UCSX-215C-M8
 airflow: front-to-rear
 subdevice_role: child
+u_height: 0
 comments: '[Cisco UCS X215c M8 Compute Node Data Sheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/ucs-x215c-m8-compute-node.pdf)'
 weight: 11.39
 weight_unit: kg
