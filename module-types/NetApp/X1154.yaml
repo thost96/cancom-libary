@@ -1,0 +1,15 @@
+---
+manufacturer: NetApp
+model: MEZZANINE 4-Port 32G FC
+part_number: X1154
+description: X1154 MEZZANINE 4-Port 32G FC for AFF C250
+subdevice_role: child
+interfaces:
+  - name: 32G/{module}/1
+    type: 32gfc-sfp28
+  - name: 32G/{module}/2
+    type: 32gfc-sfp28
+  - name: 32G/{module}/3
+    type: 32gfc-sfp28
+  - name: 32G/{module}/4
+    type: 32gfc-sfp28

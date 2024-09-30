@@ -1,0 +1,9 @@
+---
+manufacturer: NetApp
+model: X737A PSU AFF C250 A700s A800 EF600 EF300
+part_number: X737A
+description: NetApp PSU,AFF A700s,A800,EF600,EF300 C250
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1600

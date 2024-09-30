@@ -1,0 +1,11 @@
+---
+manufacturer: NetApp
+model: MEZZANINE 2-Port 100GbE
+part_number: X1153
+description: X1153 MEZZANINE 2-Port 100GbE
+subdevice_role: child
+interfaces:
+  - name: 100GE/{module}/1
+    type: 100gbase-x-sfpdd
+  - name: 100GE/{module}/2
+    type: 100gbase-x-sfpdd

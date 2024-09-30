@@ -1,15 +1,15 @@
 ---
 manufacturer: NetApp
-model: AFF-C250
-slug: netapp-aff-c250-shelf
+model: AFF-C250 Shelf
+slug: netapp-aff-c250
 part_number: AFF-C250-000-C
 comments: '[AFF C250 Systems Installation and Setup Instructions](https://docs.netapp.com/de-de/ontap-systems/media/PDF/Mar_2024_Rev4_AFFC250_ISI_IEOPS-1611.pdf)'
 u_height: 2
 is_full_depth: true
 weight: 30
 weight_unit: kg
-front_image: false
-rear_image: false
+front_image: true
+rear_image: true
 module-bays:
   - name: ConA
     position: 1

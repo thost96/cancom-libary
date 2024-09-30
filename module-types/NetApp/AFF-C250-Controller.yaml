@@ -1,7 +1,7 @@
 ---
 manufacturer: NetApp
-model: NetApp AFF C250 Controller
-description: NetApp AFF C250 Controller
+model: AFF-C250 Controller
+description: AFF C250 Controller
 module-bays:
   - name: PCIe1
     position: PCIe1
