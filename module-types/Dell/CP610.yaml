@@ -1,0 +1,10 @@
+---
+manufacturer: Dell
+model: Broadcom 57412 Dual Port 10GB SFP+ OCP 3.0 Network Card
+part_number: CP610
+description: Broadcom 57412 Dual Port 10GB SFP+ OCP 3.0 Network Card
+interfaces:
+  - name: 10GE/{module}/1
+    type: 10gbase-x-sfpp
+  - name: 10GE/{module}/2
+    type: 10gbase-x-sfpp
