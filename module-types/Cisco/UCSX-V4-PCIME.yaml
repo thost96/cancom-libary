@@ -2,7 +2,4 @@
 manufacturer: Cisco
 model: UCS PCI Mezz Card for X-Fabric 
 part_number: UCSX-V4-PCIME
-description: 'UCS PCI Mezz Card for X-Fabric  | Rear Mezzanine Slot only The UCSX-V4-PCIME rear mezzanine card for X-Fabric has PCIE Gen4 x16
-  connectivity towards each CPU1 and CPU2. Additionally, the UCSX-V4-PCIME also
-  provides two PCIE Gen4 x16 to each X-fabric. This rear mezzanine card enables
-  connectivity from the X210c M6 Compute Node to the X440p PCIe node.'
+description: 'UCS PCI Mezz Card for X-Fabric  | Rear Mezzanine Slot only'

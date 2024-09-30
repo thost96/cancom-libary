@@ -2,7 +2,8 @@
 manufacturer: Cisco
 model: UCS X210c M6 Compute Node RAID controller 6x SAS/SATA or 4x NVMe
 part_number: UCSX-X10C-RAIDF
-description: 'Cisco UCS X210c M6 Compute Node RAID controller w/4GB Cache, with LSI 3900 for up to 6 SAS/SATA drives or up to 4 NVMe drives (SAS/SATA and NVMe drives can be mixed). | Front Mezzanine Slot only'
+description: 'UCS X210c M6 Compute Node RAID controller 6x SAS/SATA or 4x NVMe | Front Mezzanine Slot only'
+comments: 'Cisco UCS X210c M6 Compute Node RAID controller w/4GB Cache for up to 6 SAS/SATA drives or up to 4 NVMe drives (SAS/SATA and NVMe drives can be mixed). | Front Mezzanine Slot only'
 module-bays:
   - name: SAS_SATA_NVME1
     position: 1

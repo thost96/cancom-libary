@@ -1,5 +1,5 @@
 ---
 manufacturer: Cisco
-model: NVIDIA L4 Tensor Core, 70W, 24GB
-part_number: UCSX-GPU-L4
-description: NVIDIA L4 Tensor Core, 70W, 24GB
+model: NVIDIA H100 Tensor Core, 700W, 80GB
+part_number: UCSX-GPU-H100-80
+description: NVIDIA H100 Tensor Core, 700W, 80GB
