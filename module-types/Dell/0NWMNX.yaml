@@ -1,0 +1,14 @@
+---
+manufacturer: Dell
+model: Broadcom 57412 Dual-Port 10GB SFP+ Network Daughter Card
+part_number: 0NWMNX
+description: Dell 0NWMNX Broadcom 57412 Dual-Port 10GB SFP+ Network Daughter Card
+interfaces:
+  - name: 10GE/{module}/1
+    type: 10gbase-x-sfpp
+  - name: 10GE/{module}/2
+    type: 10gbase-x-sfpp
+  - name: 1GE/{module}/1
+    type: 1000base-t
+  - name: 1GE/{module}/2
+    type: 1000base-t
