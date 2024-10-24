@@ -1,6 +1,6 @@
 ---
 manufacturer: HPE
-model: P10115-B21
+model: Broadcom BCM57414 Ethernet 10/25 Gb SFP28 OCP3
 part_number: P10115-B21
 description: Broadcom BCM57414 Ethernet 10/25 Gb SFP28‑OCP3‑Adapter
 interfaces:

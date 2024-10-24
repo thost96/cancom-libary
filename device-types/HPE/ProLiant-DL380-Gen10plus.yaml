@@ -51,6 +51,12 @@ module-bays:
   - name: PCIe8
     position: PCIe8
     label: tertiary riser
+  - name: PCIe10
+    position: PCIe10
+    label: OCP
+  - name: PCIe12
+    position: PCIe12
+    label: internal stroage ctlr
 interfaces:
   - name: iLO
     type: 1000base-t

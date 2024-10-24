@@ -1,8 +1,8 @@
 ---
 manufacturer: HPE
-model: P26262-B21
+model: Broadcom BCM57414 Ethernet 10/25 Gb SFP28 Adapter
 part_number: P26262-B21
-description: Broadcom BCM57414 Ethernet 10/25 Gb SFP28‑Adapter
+description: Broadcom BCM57414 Ethernet 10/25 Gb SFP28 Adapter
 interfaces:
   - name: 25GE/{module}/1
     type: 25gbase-x-sfp28
