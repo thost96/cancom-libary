@@ -1,0 +1,9 @@
+---
+manufacturer: HPE
+model: 500W FlexSlot Platinum HotPlug Power Supply
+part_number: 720478-B21
+description: HPE 500W FlexSlot Platinum HotPlug Power Supply for G9 Servers
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 500

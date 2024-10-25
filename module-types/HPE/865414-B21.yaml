@@ -1,0 +1,9 @@
+---
+manufacturer: HPE
+model: 800W Flex Slot Platinum Netzteilkit
+part_number: 865414-B21
+description: HPE Flex Slot Platinum‑Netzteilkit mit 800 W, Hot‑Plug‑fähig, halogenarm
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 800

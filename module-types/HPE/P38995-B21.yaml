@@ -1,0 +1,9 @@
+---
+manufacturer: HPE
+model: 800W Flex Slot Platinum Hot Plug Power Supply
+part_number: P38995-B21
+description: HPE 800W Flex Slot Platinum Hot Plug Low Halogen Power Supply Kit
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 800
