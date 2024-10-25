@@ -4,8 +4,8 @@ model: Firebox M5800
 slug: watchguard-firebox-m5800
 u_height: 1
 is_full_depth: true
-front_image: false
-rear_image: false
+front_image: true
+rear_image: true
 airflow: front-to-rear
 comments: '[Firebox M5800 Hardware Guide](https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Hardware-Guides/firebox-m5800-hardware-guide.html)'
 weight: 12

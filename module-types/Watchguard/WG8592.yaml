@@ -3,6 +3,7 @@ manufacturer: WatchGuard
 model: WatchGuard Firebox M 8 Port 1 Gb Copper Module
 part_number: WG8592
 description: WatchGuard Firebox M 8 Port 1 Gb Copper Module
+front_image: true
 interfaces:
   - name: '{module}/0'
     type: 1000base-t

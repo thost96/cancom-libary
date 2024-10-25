@@ -9,8 +9,8 @@ part_number: 755258-B21
 comments: '[HPE ProLiant DL360 G9 Server QuickSpecs](https://www.hpe.com/psnow/doc/c04346229.pdf)'
 weight: 25
 weight_unit: kg
-front_image: false
-rear_image: false
+front_image: true
+rear_image: true
 console-ports:
   - name: Serial
     type: de-9
