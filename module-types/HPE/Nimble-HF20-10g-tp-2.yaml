@@ -1,0 +1,9 @@
+---
+manufacturer: HPE
+model: Nimble HF20 Dual-Port 10G Base-T Adapter
+description: Nimble HF20 Dual-Port 10G Base-T Adapter
+interfaces:
+  - name: 10GE/{module}/1
+    type: 10gbase-t
+  - name: 10GE/{module}/2
+    type: 10gbase-t

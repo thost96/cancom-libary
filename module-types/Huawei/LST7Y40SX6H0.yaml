@@ -10,10 +10,10 @@ interfaces:
   - name: '100GE/{module}/2'
     type: 100gbase-x-qsfp28
   - name: '40GE/{module}/1'
-    type: 40gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   - name: '40GE/{module}/2'
-    type: 40gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   - name: '40GE/{module}/3'
-    type: 40gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   - name: '40GE/{module}/4'
-    type: 40gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

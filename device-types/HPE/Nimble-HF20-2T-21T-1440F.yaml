@@ -2,10 +2,10 @@
 manufacturer: HPE
 model: Nimble HF20-2T-21T-1440F
 slug: hpe-nimble-hf20-2t-21t-1440f
-u_height: 1
+u_height: 4
 is_full_depth: true
 airflow: front-to-rear
-part_number: HF20
+part_number: HF20-2T-21T
 comments: '[HPE Nimble Storage Adaptive Flash Arrays QuickSpecs](https://www.hpe.com/psnow/doc/a00008274enw.pdf?jumpid=in_pdp-psnow-qs)'
 weight: 65
 weight_unit: kg
@@ -16,16 +16,32 @@ module-bays:
     position: PSU1
   - name: PSU2
     position: PSU2
-  - name: CtlrA_Exp1
-    position: CtlrA_Exp1
-  - name: CtlrB_Exp1
-    position: CtlrB_Exp1
+  - name: CtlrA_Slot1
+    position: CtlrA_Slot1
+  - name: CtlrA_Slot2
+    position: CtlrA_Slot2
+  - name: CtlrA_Slot3
+    position: CtlrA_Slot3
+  - name: CtlrB_Slot1
+    position: CtlrB_Slot1
+  - name: CtlrB_Slot2
+    position: CtlrB_Slot2
+  - name: CtlrB_Slot3
+    position: CtlrB_Slot3
 interfaces:
   - name: ctlr-a-eth0a
     type: 10gbase-t
   - name: ctlr-a-eth0b
     type: 10gbase-t
+  - name: ctlr-a-sas1
+    type: other
+  - name: ctlr-a-sas2
+    type: other
   - name: ctlr-b-eth0a
     type: 10gbase-t
   - name: ctlr-b-eth0b
     type: 10gbase-t
+  - name: ctlr-b-sas1
+    type: other
+  - name: ctlr-b-sas2
+    type: other
