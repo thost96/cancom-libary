@@ -3,6 +3,7 @@ manufacturer: WatchGuard
 model: Firebox T85-PoE
 slug: watchguard-firebox-t85-poe
 u_height: 1
+part_number: T85-PoE
 is_full_depth: false
 front_image: false
 rear_image: false

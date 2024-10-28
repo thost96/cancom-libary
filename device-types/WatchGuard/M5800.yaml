@@ -2,6 +2,7 @@
 manufacturer: WatchGuard
 model: Firebox M5800
 slug: watchguard-firebox-m5800
+part_number: M5800
 u_height: 1
 is_full_depth: true
 front_image: true

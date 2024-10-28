@@ -2,10 +2,11 @@
 manufacturer: WatchGuard
 model: Firebox M4600
 slug: watchguard-firebox-m4600
+part_number: M4600
 u_height: 1
 is_full_depth: true
-front_image: false
-rear_image: false
+front_image: true
+rear_image: true
 airflow: front-to-rear
 comments: '[Firebox M4600 Hardware Guide](https://www.watchguard.com/help/docs/hardware%20guides/Firebox_M4600_Hardware_Guide.pdf)'
 weight: 8

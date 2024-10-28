@@ -2,10 +2,11 @@
 manufacturer: WatchGuard
 model: Firebox M370
 slug: watchguard-firebox-m370
+part_number: M370
 u_height: 1
 is_full_depth: false
-front_image: false
-rear_image: false
+front_image: true
+rear_image: true
 airflow: front-to-rear
 comments: '[Firebox M370, M470, M570 and M670 Hardware Guide](https://www.watchguard.com/help/docs/hardware%20guides/Firebox_M370_470_570_670_Hardware_Guide.pdf)'
 weight: 5

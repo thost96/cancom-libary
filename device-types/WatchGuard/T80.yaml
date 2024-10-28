@@ -3,6 +3,7 @@ manufacturer: WatchGuard
 model: Firebox T80
 slug: watchguard-firebox-t80
 u_height: 1
+part_number: T80
 is_full_depth: false
 airflow: left-to-right
 front_image: false
