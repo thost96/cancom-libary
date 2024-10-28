@@ -6,7 +6,7 @@ u_height: 1.0
 is_powered: false
 is_full_depth: false
 airflow: passive
-front_image: false
+front_image: true
 rear_image: false
 front-ports:
   - name: Port 1
