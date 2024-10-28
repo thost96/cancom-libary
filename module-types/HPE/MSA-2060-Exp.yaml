@@ -1,0 +1,9 @@
+---
+manufacturer: HPE
+model: MSA 2060 SFF Expansion Module
+description: MSA 2060 SFF Expansion Module
+interfaces:
+  - name: '{module}/sas-in'
+    type: other
+  - name: '{module}/sas-out'
+    type: other

@@ -1,0 +1,18 @@
+---
+manufacturer: HPE
+model: MSA 2060 SFF Controller 10GbE iSCSI
+description: MSA 2060 SFF Controller 10GbE iSCSI
+interfaces:
+  - name: '{module}/mgmt'
+    type: 1000base-t
+    mgmt_only: true
+  - name: '{module}/dp-1'
+    type: 10gbase-x-sfpp
+  - name: '{module}/dp-2'
+    type: 10gbase-x-sfpp
+  - name: '{module}/dp-3'
+    type: 10gbase-x-sfpp
+  - name: '{module}/dp-4'
+    type: 10gbase-x-sfpp
+  - name: '{module}/exp'
+    type: other
