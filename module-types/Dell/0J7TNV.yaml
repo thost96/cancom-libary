@@ -1,0 +1,10 @@
+---
+manufacturer: Dell
+model: Broadcom HBA330 Adapter
+part_number: 0J7TNV
+description: Broadcom HBA330 Adapter
+interfaces:
+  - name: 10GE/{module}/1
+    type: 10gbase-x-sfpp
+  - name: 10GE/{module}/2
+    type: 10gbase-x-sfpp
