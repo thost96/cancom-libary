@@ -1,7 +1,7 @@
 ---
 manufacturer: HPE
-model: Nimble HF20 Power Supply
-description: Nimble HF20 Power Supply 1200W
+model: Nimble HF20 and ES3 Power Supply
+description: Nimble HF20 and ES3 Power Supply 1200W
 power-ports:
   - name: '{module}'
     type: iec-60320-c14

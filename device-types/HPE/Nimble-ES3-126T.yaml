@@ -1,0 +1,35 @@
+---
+manufacturer: HPE
+model: Nimble ES3-H126T Expansion Shelf
+slug: hpe-nimble-es3-h126t
+u_height: 4
+is_full_depth: true
+airflow: front-to-rear
+part_number: ES3-126T
+comments: '[HPE Nimble Storage Adaptive Flash Arrays QuickSpecs](https://www.hpe.com/psnow/doc/a00008274enw.pdf?jumpid=in_pdp-psnow-qs)'
+weight: 130
+weight_unit: kg
+front_image: true
+rear_image: true
+module-bays:
+  - name: PSU1
+    position: PSU1
+  - name: PSU2
+    position: PSU2
+interfaces:
+  - name: iom-a-sas1-in
+    type: other
+  - name: iom-a-sas2-in
+    type: other
+  - name: iom-a-sas1-out
+    type: other
+  - name: iom-a-sas2-out
+    type: other
+  - name: iom-b-sas1-in
+    type: other
+  - name: iom-b-sas2-in
+    type: other
+  - name: iom-b-sas1-out
+    type: other
+  - name: iom-b-sas2-out
+    type: other

@@ -1,0 +1,9 @@
+---
+manufacturer: Dell
+model: 750W Redundant Power Supply Unit
+part_number: 4V8KD
+description: Dell 750W Redundant Power Supply Unit for PowerEdge R740xd
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 750
