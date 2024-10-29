@@ -1,0 +1,10 @@
+---
+manufacturer: Huawei
+model: 600W AC Power Module PAC-600WA-B
+slug: huawei-PAC-600WA-B
+part_number: PAC-600WA-B
+description: 600W AC Power Module PAC-600WA-B for CE6810-32T16S4Q-LI (air exhaust on power module panel)
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 600
