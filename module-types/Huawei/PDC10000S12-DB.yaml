@@ -5,7 +5,7 @@ slug: huawei-pdc1000s12-db
 part_number: pdc1000s12-db
 description: 1000W DC power module for S6730-H24X6C-V2/TV2
 power-ports:
-  - name: PS1
+  - name: '{module}'
     type: 'dc-terminal'
     maximum_draw: 1000
     allocated_draw: 291
