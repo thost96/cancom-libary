@@ -1,0 +1,9 @@
+---
+manufacturer: Netgear
+model: ReadyNAS 4312S Power Supply 550W
+slug: netgear-readynas-4312s-power-550
+description: ReadyNAS 4312S Power Supply 550W 100-240VAC
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 600
