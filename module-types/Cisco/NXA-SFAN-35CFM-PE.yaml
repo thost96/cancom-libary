@@ -1,0 +1,8 @@
+---
+manufacturer: Cisco
+model: NXA-SFAN-35CFM-PE
+part_number: NXA-SFAN-35CFM-PE
+description: Nexus 9300-FX Series Nexus Single Fan, 35CFM, port side exhaust airflow
+weight: 0.12
+weight_unit: kg
+comments: '[Cisco Nexus 9300-FX Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-744052.html)'
