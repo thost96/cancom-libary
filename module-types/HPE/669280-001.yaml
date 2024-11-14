@@ -1,0 +1,14 @@
+---
+manufacturer: HPE
+model: HPE Ethernet 1Gb 4-port 366FLR Adapter
+part_number: 669280-001
+description: HPE Ethernet 1Gb 4-port 366FLR Adapter
+interfaces:
+  - name: 1GE/{module}/1
+    type: 1000base-t
+  - name: 1GE/{module}/2
+    type: 1000base-t
+  - name: 1GE/{module}/3
+    type: 1000base-t
+  - name: 1GE/{module}/4
+    type: 1000base-t
