@@ -1,0 +1,19 @@
+---
+manufacturer: NetApp
+model: AFF-A300 Shelf
+slug: netapp-aff-a300
+part_number: AFF-A300
+comments: '[AFF A300 Systems](https://www.netapp.com/media/19747-storage-review-netapp-a300-print.pdf)'
+u_height: 3
+is_full_depth: true
+front_image: true
+rear_image: true
+module-bays:
+  - name: ConA
+    position: 1
+  - name: ConB
+    position: 2
+  - name: PSU1
+    position: 3
+  - name: PSU2
+    position: 4

@@ -1,0 +1,20 @@
+---
+manufacturer: NetApp
+model: FAS2620
+slug: netapp-fas-2620
+part_number: FAS2620
+u_height: 2
+is_full_depth: true
+weight: 26
+weight_unit: kg
+front_image: false
+rear_image: false
+module-bays:
+  - name: ConA
+    position: 1
+  - name: ConB
+    position: 2
+  - name: PSU1
+    position: 3
+  - name: PSU2
+    position: 4

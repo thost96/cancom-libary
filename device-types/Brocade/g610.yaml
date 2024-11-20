@@ -1,0 +1,72 @@
+---
+manufacturer: Brocade
+model: G610
+slug: brocade-g610
+part_number: G610
+u_height: 1
+is_full_depth: false
+front_image: false
+rear_image: false
+airflow: rear-to-front
+comments: '[Brocade G610](https://docs.broadcom.com/docs/GA-DS-6231)'
+weight: 5.8
+weight_unit: kg
+interfaces:
+  - name: eth0
+    type: 1000base-t
+    mgmt_only: true
+  - name: FC port 0
+    type: 32gfc-sfp28
+  - name: FC port 1
+    type: 32gfc-sfp28
+  - name: FC port 2
+    type: 32gfc-sfp28
+  - name: FC port 3
+    type: 32gfc-sfp28
+  - name: FC port 4
+    type: 32gfc-sfp28
+  - name: FC port 5
+    type: 32gfc-sfp28
+  - name: FC port 6
+    type: 32gfc-sfp28
+  - name: FC port 7
+    type: 32gfc-sfp28
+  - name: FC port 8
+    type: 32gfc-sfp28
+  - name: FC port 9
+    type: 32gfc-sfp28
+  - name: FC port 10
+    type: 32gfc-sfp28
+  - name: FC port 11
+    type: 32gfc-sfp28
+  - name: FC port 12
+    type: 32gfc-sfp28
+  - name: FC port 13
+    type: 32gfc-sfp28
+  - name: FC port 14
+    type: 32gfc-sfp28
+  - name: FC port 15
+    type: 32gfc-sfp28
+  - name: FC port 16
+    type: 32gfc-sfp28
+  - name: FC port 17
+    type: 32gfc-sfp28
+  - name: FC port 18
+    type: 32gfc-sfp28
+  - name: FC port 19
+    type: 32gfc-sfp28
+  - name: FC port 20
+    type: 32gfc-sfp28
+  - name: FC port 21
+    type: 32gfc-sfp28
+  - name: FC port 22
+    type: 32gfc-sfp28
+  - name: FC port 23
+    type: 32gfc-sfp28
+console-ports:
+  - name: con0
+    type: rj-45
+power-ports:
+  - name: PSU0
+    type: iec-60320-c14
+    maximum_draw: 150

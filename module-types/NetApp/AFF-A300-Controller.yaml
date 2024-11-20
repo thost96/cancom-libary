@@ -1,0 +1,42 @@
+---
+manufacturer: NetApp
+model: AFF-A300 Controller
+description: AFF A300 Controller
+module-bays:
+  - name: PCIe1
+    position: PCIe1
+  - name: PCIe2
+    position: PCIe2
+console-ports:
+  - name: '{module}/con0'
+    type: rj-45
+  - name: '{module}/usb'
+    type: usb-a
+interfaces:
+  - name: '{module}/e0m'
+    type: 1000base-t
+    mgmt_only: true
+  - name: '{module}/0a'
+    type: other
+  - name: '{module}/0b'
+    type: other
+  - name: '{module}/0c'
+    type: other
+  - name: '{module}/0d'
+    type: other
+  - name: '{module}/e0a'
+    type: 10gbase-x-sfpp
+  - name: '{module}/e0b'
+    type: 10gbase-x-sfpp
+  - name: '{module}/e0c'
+    type: 10gbase-t
+  - name: '{module}/e0d'
+    type: 10gbase-t
+  - name: '{module}/e0e'
+    type: 10gbase-x-sfpp
+  - name: '{module}/e0f'
+    type: 10gbase-x-sfpp
+  - name: '{module}/e0g'
+    type: 10gbase-x-sfpp
+  - name: '{module}/e0h'
+    type: 10gbase-x-sfpp

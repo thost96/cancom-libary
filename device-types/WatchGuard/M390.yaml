@@ -1,0 +1,45 @@
+---
+manufacturer: WatchGuard
+model: Firebox M390
+slug: watchguard-firebox-m390
+part_number: M390
+u_height: 1
+is_full_depth: false
+front_image: true
+rear_image: true
+airflow: front-to-rear
+comments: '[FIREBOX M290 & M390 Hardware Guide](https://watchguard.widen.net/content/8kvkcw3odv/original/Datasheet_M290-M390.pdf)'
+weight: 3.65
+weight_unit: kg
+console-ports:
+  - name: console
+    type: rj-45
+  - name: usb1
+    type: usb-a
+  - name: usb2
+    type: usb-a
+power-ports:
+  - name: PSU
+    type: iec-60320-c14
+    maximum_draw: 120
+    allocated_draw: 120
+module-bays:
+  - name: SlotA
+    position: A
+interfaces:
+  - name: '0'
+    type: 1000base-t
+  - name: '1'
+    type: 1000base-t
+  - name: '2'
+    type: 1000base-t
+  - name: '3'
+    type: 1000base-t
+  - name: '4'
+    type: 1000base-t
+  - name: '5'
+    type: 1000base-t
+  - name: '6'
+    type: 1000base-t
+  - name: '7'
+    type: 1000base-t

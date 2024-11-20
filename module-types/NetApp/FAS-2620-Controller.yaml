@@ -1,0 +1,29 @@
+---
+manufacturer: NetApp
+model: FAS-2620 Controller
+description: NetApp FAS-2620 Controller
+console-ports:
+  - name: '{module}/con0'
+    type: rj-45
+  - name: usb
+    type: usb-a
+interfaces:
+  - name: '{module}/0a'
+    type: other
+  - name: '{module}/0b'
+    type: other
+  - name: '{module}/e0a'
+    type: 10gbase-x-sfpp
+  - name: '{module}/e0b'
+    type: 10gbase-x-sfpp
+  - name: '{module}/0c'
+    type: 10gbase-x-sfpp
+  - name: '{module}/0d'
+    type: 10gbase-x-sfpp
+  - name: '{module}/0e'
+    type: 10gbase-x-sfpp
+  - name: '{module}/0f'
+    type: 10gbase-x-sfpp
+  - name: '{module}/e0m'
+    type: 1000base-t
+    mgmt_only: true
