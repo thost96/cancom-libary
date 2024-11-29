@@ -14,7 +14,7 @@ module-bays:
 console-ports:
   - name: '{module}/con0'
     type: rj-45
-  - name: usb
+  - name: '{module}/usb'
     type: usb-a
 interfaces:
   - name: '{module}/0a'
