@@ -1,0 +1,15 @@
+---
+manufacturer: Ruckus
+model: ICX 7650/7550 4-port 1/10GbE SFP+ Module
+part_number: ICX7650-4X10GF
+description: Ruckus ICX 7650/7550 4-port 1/10GbE SFP+ Module
+front_image: false
+interfaces:
+  - name: 'Ethertnet1/{module}/1'
+    type: 10gbase-x-sfpp
+  - name: 'Ethertnet1/{module}/2'
+    type: 10gbase-x-sfpp
+  - name: 'Ethertnet1/{module}/3'
+    type: 10gbase-x-sfpp
+  - name: 'Ethertnet1/{module}/4'
+    type: 10gbase-x-sfpp

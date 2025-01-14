@@ -1,0 +1,9 @@
+---
+manufacturer: Ruckus
+model: ICX 7650/7550 1-port 100GbE QSFP28 Module
+part_number: ICX7650-1X100GQ
+description: Ruckus ICX 7650/7550 1-port 100GbE QSFP28 Module
+front_image: false
+interfaces:
+  - name: 'Ethertnet1/{module}/1'
+    type: 100gbase-x-qsfp28

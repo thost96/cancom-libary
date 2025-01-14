@@ -1,0 +1,11 @@
+---
+manufacturer: Ruckus
+model: ICX 7650/7550 2-port 40GbE QSFP+ Module
+part_number: ICX7650-2X40GQ
+description: ICX 7650/7550 2-port 40GbE QSFP+ Module
+front_image: false
+interfaces:
+  - name: 'Ethertnet1/{module}/1'
+    type: 40gbase-x-qsfpp
+  - name: 'Ethertnet1/{module}/2'
+    type: 40gbase-x-qsfpp
