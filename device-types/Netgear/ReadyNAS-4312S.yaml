@@ -1,6 +1,6 @@
 ---
 manufacturer: Netgear
-model: ReadyNAS 4312S 
+model: ReadyNAS 4312S
 slug: netgear-readynas-4312s
 u_height: 2
 is_full_depth: true
@@ -32,4 +32,3 @@ interfaces:
     type: 10gbase-x-sfpp
   - name: 10GbE2
     type: 10gbase-x-sfpp
- 
