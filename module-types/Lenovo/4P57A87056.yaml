@@ -1,0 +1,9 @@
+---
+manufacturer: Lenovo
+model: ThinkSystem 800W 230V/115V Titanium CRPS Hot-Swap Power Supply v1.4
+part_number: 4P57A87056
+description: ThinkSystem 800W 230V/115V Titanium CRPS Hot-Swap Power Supply v1.4 Titanium is Energy Star certified
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 800

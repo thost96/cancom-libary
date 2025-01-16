@@ -1,0 +1,14 @@
+---
+manufacturer: Lenovo
+model: ThinkSystem RAID 5350-8i PCIe 12Gb Adapter
+part_number: 4Y37A72482
+slug: lenovo-thinkSystem-5350-8i
+description: ThinkSystem RAID 5350-8i PCIe 12Gb Adapter
+comments: '[ThinkSystem RAID 5350-8i Adapters Product Guide](https://lenovopress.lenovo.com/lp1438-thinksystem-raid-5350-8i-adapters)'
+interfaces:
+  - name: '{module}/SAS1'
+    description: Mini-SAS HD SFF8644
+    type: other
+  - name: '{module}/SAS2'
+    description: Mini-SAS HD SFF8644
+    type: other

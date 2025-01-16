@@ -1,0 +1,13 @@
+---
+manufacturer: Lenovo
+model: ThinkSystem 440-8i PCIe Gen4 12Gb HBA
+part_number: 4Y37A78601
+description: ThinkSystem 440-8i SAS/SATA PCIe Gen4 12Gb HBA
+comments: '[Lenovo ThinkSystem 440 Series Internal SAS HBAs Product Guide](https://lenovopress.lenovo.com/lp1283-thinksystem-440-series-internal-sas-hba)'
+interfaces:
+  - name: '{module}/SAS1'
+    description: x8 SFF-8654
+    type: other
+  - name: '{module}/SAS2'
+    description: x8 SFF-8654
+    type: other

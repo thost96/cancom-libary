@@ -26,7 +26,7 @@ module-bays:
   - name: PSU1
     position: PSU1
   - name: OCP
-    position: OCP
+    position: PCIe9
   - name: PCIe3
     position: PCIe3
     label: Riser1
