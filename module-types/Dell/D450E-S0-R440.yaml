@@ -1,0 +1,9 @@
+---
+manufacturer: Dell
+model:  450 W cabled AC PSU
+part_number: D450E-S0-R440
+description: Dell 450 W cabled Bronze AC PSU for R440
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 450

@@ -1,0 +1,9 @@
+---
+manufacturer: Dell
+model: 550 W hot pluggable AC PSU
+part_number: 450-AEKP
+description: Dell 550 W hot pluggable Platinum AC PSU for R440
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 550
