@@ -1,14 +1,13 @@
 ---
 manufacturer: Netgear
-model: ReadyNAS 4312S
-slug: netgear-readynas-4312s
+model: ReadyNAS 3212S
+slug: netgear-readynas-3212s
 u_height: 2
 is_full_depth: true
-comments: '[NETGEAR ReadyNAS 4312S Series](https://www.netguardstore.com/ReadyNAS-4312S-Series.asp)'
 weight: 12
 weight_unit: kg
-front_image: true
-rear_image: true
+front_image: false
+rear_image: false
 console-ports:
   - name: rear-usb1
     type: usb-a
@@ -28,7 +27,3 @@ interfaces:
     type: 1000base-t
   - name: LAN4
     type: 1000base-t
-  - name: 10GbE1
-    type: 10gbase-x-sfpp
-  - name: 10GbE2
-    type: 10gbase-x-sfpp
