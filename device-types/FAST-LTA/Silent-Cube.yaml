@@ -1,0 +1,25 @@
+---
+manufacturer: FAST-LTA
+model: Silent Cube
+slug: fast-lta-silent-cube
+u_height: 6
+is_full_depth: false
+airflow: mixed
+part_number: 7007
+comments: '[FAST LTA Silent Cube Datenblatt](https://www.thomas-krenn.com/redx/tools/mb_download.php/mid.y43e56b0d3a516317/Datenblatt_FAST_LTA_Silent_Cube.pdf)'
+weight: 13
+weight_unit: kg
+front_image: false
+rear_image: false
+power-ports:
+  - name: PSU0
+    type: iec-60320-c14
+    maximum_draw: 300
+    allocated_draw: 100
+  - name: PSU1
+    type: iec-60320-c14
+    maximum_draw: 300
+    allocated_draw: 100
+interfaces:
+  - name: LAN
+    type: 1000base-t

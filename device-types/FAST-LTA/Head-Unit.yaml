@@ -1,0 +1,28 @@
+---
+manufacturer: FAST-LTA
+model: Head Unit C4
+slug: fast-lta-head-unit
+u_height: 1
+is_full_depth: true
+airflow: front-to-rear
+part_number: 7101
+comments: '[FAST LTA Head Unit](https://doc.fast-lta.de/de/handbuch-silent-cube-system/v3.4/teil-b-installation)'
+weight: 20
+weight_unit: kg
+front_image: true
+rear_image: false
+module-bays:
+  - name: PSU1
+    position: PSU1
+  - name: PSU2
+    position: PSU2
+interfaces:
+  - name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  - name: CUBE
+    type: 1000base-t
+  - name: LAN1
+    type: 1000base-t
+  - name: LAN2
+    type: 1000base-t

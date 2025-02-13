@@ -1,0 +1,9 @@
+---
+manufacturer: FAST-LTA
+model: Head Unit Hotswap Power Supply
+description: FAST-LTA Head Unit Hotswap Power Supply 300W
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 300
+    allocated_draw: 130
